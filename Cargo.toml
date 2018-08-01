@@ -1,0 +1,7 @@
+[package]
+name = "yewtf-8"
+version = "0.1.0"
+authors = ["Woyten <woyten.tielesch@online.de>"]
+
+[dependencies]
+yew = "*"
